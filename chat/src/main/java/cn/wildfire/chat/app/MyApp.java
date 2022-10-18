@@ -23,7 +23,7 @@ import me.weishu.reflection.Reflection;
 
 public class MyApp extends BaseApp {
 
-    // 一定记得替换为你们自己的，ID请从BUGLY官网申请。关于BUGLY，可以从BUGLY官网了解，或者百度。
+    // q一定记得替换为你们自己的，ID请从BUGLY官网申请。关于BUGLY，可以从BUGLY官网了解，或者百度。
     public static String BUGLY_ID = "15dfd5f6d1";
 
     @Override
